@@ -6,10 +6,8 @@ Datasets can be downloaded form the following link.
 2. Link for [Baidu Drive](https://pan.baidu.com/s/1mEpEXhRpOuLqTZQ6gcwOeA), Password: ddx7
 
 Please cite the following paper if you use our datasets:
-`
-M.A. Qadar et. al., A Comparative Study of Nighttime Object Detection With Datasets From Australia and China, CAC 2020. 
 
-`
+` M.A. Qadar et. al., A Comparative Study of Nighttime Object Detection With Datasets From Australia and China, CAC 2020. `
 
 Complete bibtex will be available soon after publication. 
 
