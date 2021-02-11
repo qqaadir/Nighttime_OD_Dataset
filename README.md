@@ -7,7 +7,7 @@ Datasets can be downloaded form the following link.
 
 Please cite the following paper if you use our datasets: 
 
-` M.A. Qadar et. al., A Comparative Study of Nighttime Object Detection With Datasets From Australia and China, CAC 2020. `
+` M. A. Qadar, C. Nie, Y. Tan, H. Zhang and a. Z. Sun, "A Comparative Study of Nighttime Object Detection With Datasets From Australia and China," 2020 Chinese Automation Congress (CAC), Shanghai, China, 2020, pp. 5407-5412, doi: 10.1109/CAC51589.2020.9327278. `
 
 Our paper is now available. It can be accessed at the following [link](https://ieeexplore.ieee.org/document/9327278). 
 
