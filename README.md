@@ -14,5 +14,11 @@ Our paper is now available. It can be accessed at the following [link](https://i
 Here is the bibtex 
 
 
-`@INPROCEEDINGS{Qada20,  author={M. A. {Qadar} and C. {Nie} and Y. {Tan} and H. {Zhang} and a. Z. {Sun}},  booktitle={2020 Chinese Automation Congress (CAC)},   title={A Comparative Study of Nighttime Object Detection With Datasets From Australia and China},   year={2020},  volume={},  number={},  pages={5407-5412},  doi={10.1109/CAC51589.2020.9327278}}`
+`@INPROCEEDINGS{Qada20,  author={M. A. {Qadar} and C. {Nie} and Y. {Tan} and H. {Zhang} and a. Z. {Sun}},  
+booktitle={2020 Chinese Automation Congress (CAC)},   
+title={A Comparative Study of Nighttime Object Detection With Datasets From Australia and China},   
+year={2020},  
+volume={},  number={},  
+pages={5407-5412},  
+doi={10.1109/CAC51589.2020.9327278}}`
 
