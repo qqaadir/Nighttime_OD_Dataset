@@ -1,4 +1,4 @@
-### Nighttime object detection datasets captured at two different locations.
+### Nighttime object detection datasets captured from two countries.
 
 Datasets can be downloaded form the following link.
 
